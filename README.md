@@ -25,8 +25,8 @@ Built with Reactjs and SASS
 Clone the Github repository and use npm to install the dependencies
 
 ```
-git clone https://github.com/mahmoudabdulmuty/movies-app.git
-cd movie-project
+git clone https://github.com/mahmoudabdulmuty/tMovies.git
+cd tMovies
 npm i
 npm start
 ```
