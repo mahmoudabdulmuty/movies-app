@@ -1,6 +1,6 @@
-# Flex Movies
+# tMovies
 
-tmovies is a movie web based application, it shows all popular movies with their trailers.
+tMovies is a movie web based application, it shows all popular movies with their trailers.
 Built with Reactjs and SASS
 
 ## Features
