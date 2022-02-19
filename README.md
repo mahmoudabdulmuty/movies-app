@@ -3,7 +3,7 @@
 tMovies is a movie web based application, it shows all popular movies with their trailers.
 Built with Reactjs and SASS
 
-### [Live Site](https://tmovies.pages.dev/)
+### [Live Site](https://t-movies.vercel.app/)
 
 ## Features
 
